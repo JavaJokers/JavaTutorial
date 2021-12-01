@@ -1,0 +1,8 @@
+Lesson 3 - Variables
+
+Variables are like boxes. The box stores whatever you put in it, and you can take it out again. Or, if you want a different explanation, it's pretty much algebra, but X isn't always called X, and it's not just numbers.
+
+You can define a variable like this:
+
+var myvariable = "This is the value stored in myvariable!";
+

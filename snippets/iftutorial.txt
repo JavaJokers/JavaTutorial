@@ -1,0 +1,13 @@
+Lesson 4 - Conditional Statements
+
+A simple conditional statement looks like this:
+
+if(name == "Java Jokers"){
+    System.out.println("Nice name!");
+}
+
+This code checks if a variable, called "name", is equal to the text "Java Jokers". Pretty much just algebra. Then, if it's equal, it prints text to the screen.
+
+
+Horray! You completed this basic tutorial! Now, you can view the documentation for the official FTC APIS here:
+https://ftc-java.github.io/
